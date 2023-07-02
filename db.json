@@ -7,6 +7,7 @@
         "description": "A northside park that is home to the Lincoln Park Zoo",
         "review": "5",
         "image": "C:/Users/E.store/Desktop/eee.png"
+        "Night":true,
       },
       "geometry": {
         "coordinates": [36.713261, 34.723121],
@@ -19,7 +20,8 @@
         "title": "Burnham Park",
         "description": "A lakefront park on Chicago's south side",
         "review":5,
-        "image": "1an.jpg"
+        "image": "1an.jpg",
+        "Night":true
         
       },
       "geometry": {
@@ -33,7 +35,8 @@
         "title": "Millennium Park",
         "description": "A downtown park known for its art installations and unique architecture",
         "review": "4",
-        "image": "1an.jpg"
+        "image": "1an.jpg",
+        "Night":true,
       },
       "geometry": {
         "coordinates": [36.727913 ,34.715897],
@@ -46,7 +49,8 @@
         "title": "Grant Park",
         "description": "A downtown park that is the site of many of Chicago's favorite festivals and events",
         "review": "4",
-        "image": "1an.jpg"
+        "image": "1an.jpg",
+        "Night":false
       },
       "geometry": {
         "coordinates": [36.724132 ,34.708607],
@@ -59,7 +63,8 @@
         "title": "Humboldt Park",
         "description": "A large park on Chicago's northwest side",
         "review": "3",
-        "image": "1an.jpg"
+        "image": "1an.jpg",
+        "Night":false
       },
       "geometry": {
         "coordinates": [36.716891 ,34.707968],
@@ -72,7 +77,8 @@
         "title": "Douglas Park",
         "description": "A large park near in Chicago's North Lawndale neighborhood",
         "review": "2",
-        "image": "1an.jpg"
+        "image": "1an.jpg",
+        "Night":false
       },
       "geometry": {
         "coordinates": [36.707612 ,34.701101],
@@ -85,7 +91,8 @@
         "title": "Calumet Park",
         "description": "A park on the Illinois-Indiana border featuring a historic fieldhouse",
         "review": "1",
-        "image": "1an.jpg"
+        "image": "1an.jpg",
+        "Night":false
       },
       "geometry": {
         "coordinates": [36.700897 ,34.704026],
@@ -98,7 +105,8 @@
         "title": "Jackson Park",
         "description": "A lakeside park that was the site of the 1893 World's Fair",
         "review": "1",
-        "image": "1an.jpg"
+        "image": "1an.jpg",
+        "Night":false
       },
       "geometry": {
         "coordinates": [36.697876 ,34.712489],
