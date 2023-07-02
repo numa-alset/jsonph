@@ -6,7 +6,7 @@
         "title": "Lincoln Park",
         "description": "A northside park that is home to the Lincoln Park Zoo",
         "review": "5",
-        "image": "C:/Users/E.store/Desktop/eee.png"
+        "image": "C:/Users/E.store/Desktop/eee.png",
         "Night":true,
       },
       "geometry": {
