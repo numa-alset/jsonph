@@ -119,7 +119,8 @@
         "title": "Columbus Park",
         "description": "A large park in Chicago's Austin neighborhood",
         "review": "1",
-        "image": "1an.jpg"
+        "image": "1an.jpg",
+        "Night":true
       },
       "geometry": {
         "coordinates": [36.694571 ,34.724117],
