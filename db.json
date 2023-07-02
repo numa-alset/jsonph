@@ -36,7 +36,7 @@
         "description": "A downtown park known for its art installations and unique architecture",
         "review": "4",
         "image": "1an.jpg",
-        "Night":true,
+        "Night":true
       },
       "geometry": {
         "coordinates": [36.727913 ,34.715897],
